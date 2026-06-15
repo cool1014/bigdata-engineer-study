@@ -8,3 +8,4 @@
 ## 📚 목차
 
 - [Chapter 01 - 데이터프레임 생성 & 조건 검색](./chapter01.md)
+- [Chapter 02 - 정렬, 날짜 데이터, 중복 제거](./chapter02.md)
